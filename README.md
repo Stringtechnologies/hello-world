@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+<?php
+
+echo "Hello World";
+
